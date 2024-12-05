@@ -4,7 +4,7 @@
 
 I'm a newbie full-stack developer with dreams of making it big and carving out a piece of this world for myself. All coding projects are built from the ground up, from planning and designing solutions to real-life problems all the way to hosting and putting my code out into the world. My shifus in coding are the countless Youtube videos out there and my time at a coding bootcamp back in 2024.
 
--
+--
 
 ### 🧰 Languages and Tools
 
